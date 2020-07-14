@@ -1,7 +1,14 @@
 body{
     background-color: black;
+    color: #fff;
 }
-
+.card-text, .card-title{
+    color: black;
+}
+.container-bground{
+    
+    background-color: #242529;
+}
 .formatwhats
 {
     position: fixed;
@@ -30,4 +37,45 @@ body{
     font-weight: lighter;
    list-style-type: decimal;
   
+}
+
+.formularioEmail
+{
+    position: fixed;
+    padding: 10px;
+    width: 250px;
+    height: 250px;
+}
+.contador{
+    background: #ff416c;
+    background: -webkit-linear-gradient(to right, #ff416c, #ff4b2b);
+    background: linear-gradient(to right, #ff416c, #ff4b2b);
+}
+#data-m{
+    font-size: 30px;
+}
+#demo{
+    font-size: 45px;
+}
+#vagas{
+    font-size: 45px;
+    font-weight: bold;
+}
+
+.countdown {
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.countdown span {
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+    font-size: 3rem;
+    margin-left: 0.8rem;
+}
+
+
+.bg-gradient-4 {
+    background: #007991;
+    background: -webkit-linear-gradient(to right, #007991, #78ffd6);
+    background: linear-gradient(to right, #007991, #78ffd6);
 }
