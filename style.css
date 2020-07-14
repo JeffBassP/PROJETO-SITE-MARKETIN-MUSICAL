@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+}
+
+.formatwhats
+{
+    position: fixed;
+    top: 70%;
+    right: 15px;
+    text-align: center;
+}
+.whats
+{
+    padding: 5px 10px 5px 10px;
+    max-width: 118px;
+    max-height: 45px;
+    font-size:15px;
+    text-align: center;
+    line-height: 14px;
+}
+
+#whatslogo{
+    width: 50px;
+    text-align: center;
+}
+.conteudo 
+{
+    color: black;
+    font-size: 17px;
+    font-weight: lighter;
+   list-style-type: decimal;
+  
+}
